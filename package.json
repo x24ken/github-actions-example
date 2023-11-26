@@ -1,0 +1,10 @@
+{
+  "name": "github-actions-example",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
